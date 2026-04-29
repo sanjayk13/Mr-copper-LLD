@@ -19,11 +19,8 @@ Main— entry point with a simple menu loop
 
 **Fine Calculation Logic:**
 **
-Days Overdue          Fine**
-0 days                No fine
-1 – 7 days            ₹2 per day
-8 – 15 days           ₹5 per day
-16+ days              ₹10 per day
+<img width="393" height="204" alt="image" src="https://github.com/user-attachments/assets/34eff29e-52b0-4c8e-b923-7404146f9876" />
+
 
 
 
